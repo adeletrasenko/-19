@@ -1,0 +1,11 @@
+def get_matrix(n, m, value):
+    matrix = []
+    for n in range():
+        matrix = [[]]
+        for m in range():
+            matrix.append(value)
+            matrix = get_matrix(n, m, value)
+            return matrix
+        print(matrix)
+
+
